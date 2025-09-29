@@ -30,7 +30,7 @@ Kelebihan | Kekurangan
 --------- | ----------
 Stabil, jarang crash. Karena ini Unix sering dipakai pada server, yang hampir tidak pernah dimatikan. | Tidak memiliki GUI. Interaksi dengan komputer hanya menggunakan CLI (*Command-Line Interface*), sehingga lebih sulit digunakan, dan tidak enak dilihat (bagi orang awam).
 Memiliki sistem file permission. | Lisensi restriktif. Pada zaman itu, lisensi harus dibeli. Namun sekarang, karena Unix sudah tidak dikembangkan, lisensinya gratis.
-Multi-user, multi-tasking. Versi awal tidak memiliki fitur ini, tetapi versi lebih baru sudah ada. | Tidak *user-friendly*. Seperti yang sudah dijelaskan diatas. Unix juga memang dibuat untuk *programmer*, bukan orang biasa.
+Multi-user, multi-tasking. Versi awal tidak memiliki fitur ini, tetapi versi lebih baru sudah ada. | Tidak *user-friendly*. Seperti yang sudah dijelaskan diatas. Unix juga memang dibuat untuk *programmer*, bukan pengguna umum.
 Distribusi beragam. Karena lisensi Unix dijual, banyak perusahaan lain membuat versi Unix-nya sendiri dan mengembangkan fitur-fitur unik. | 
 Kompatibilitas. Karena versi ke-4 menggunakan bahasa C, Unix menjadi lebih mudah untuk di-*port* ke sistem lain (dibandingkan sistem operasi lainnya pada saat itu, yang biasanya menggunakan bahasa Assembly). |
 
