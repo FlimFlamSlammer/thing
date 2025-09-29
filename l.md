@@ -5,6 +5,7 @@
 - Awalnya, hanya bisa digunakan pada komputer Bell System. Namun, pada tahun 1970 lisensi Unix mulai dijual ke pihak lain, sehingga varian (distribusi) Unix dari perusahaan lain mulai dikembangkan juga.
 - Unix terinspirasi oleh OS Multics.
     - Pembuat Unix merasa bahwa Multics punya tujuan yang baik, tetapi terlalu kompleks.
+    - Jadi, mereka mencoba membuat OS sendiri yang lebih sederhana (hanya memiliki fitur penting aja).
 - Saat dibuat, Unix menggunakan bahasa Assembly.
 - Pada tahun 1973, versi 4 dibuat, yang menggunakan bahasa C.
     - Menggunakan bahasa C membuat Unix lebih mudah di-*port* ke sistem lain.
