@@ -1,2 +1,2 @@
 # What Are You Looking At?
-Seriously. What even is this repo?
+Seriously. Are you looking for something here?
