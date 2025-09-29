@@ -15,7 +15,7 @@
 - Unix menjadi inspirasi untuk banyak OS lain.
 
 ## Kebutuhan Hardware
-**Khusus untuk Unix versi 7.**
+***Khusus untuk Unix versi 7.***
 > >“Mengapa versi 7?”
 >
 >—Seseorang yang namanya tidak perlu disebutkan
