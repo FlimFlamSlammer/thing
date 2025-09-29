@@ -10,7 +10,7 @@
     - Menggunakan bahasa C membuat Unix lebih mudah di-*port* ke sistem lain.
     - Cari definisi *port* di kamus.
 - Versi Unix terakhir (yang dibuat oleh Bell Labs) adalah versi 10.
-    - Namun, versi terakhir yang terkenal adalah versi 7, karena versi 8–10 tidak disebarluaskan.
+    - Namun, versi terakhir yang “terkenal” adalah versi 7, karena versi 8–10 tidak disebarluaskan.
 - Unix menjadi inspirasi untuk banyak OS lain.
 
 ## Kebutuhan Hardware
