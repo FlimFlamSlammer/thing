@@ -24,7 +24,7 @@ Unix versi 7 adalah versi terakhir yang dibuat oleh Bell Labs yang terkenal. **D
 
 CPU    | RAM    | Penyimpanan
 ------ | ------ | -----------
-PDP-11 | 256 KB | 2,5 MB
+PDP-11 | 256 KB. 512 KB direkomendasikan untuk aplikasi lebih kompleks. | 2,5 MB
 
 ## Kelebihan dan Kekurangan
 
