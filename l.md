@@ -16,7 +16,8 @@
 
 ## Kebutuhan Hardware
 **Khusus untuk Unix versi 7.**
->Mengapa versi 7? -Seseorang yang tidak perlu disebut namanya
+>“Mengapa versi 7?”
+>-Seseorang yang tidak perlu disebut namanya
 
 Unix versi 7 adalah versi terakhir yang dibuat oleh Bell Labs yang terkenal. **Distribusi/versi Unix lain, yang mungkin juga dibuat oleh perusahaan lain, akan memiliki kebutuhan hardware yang berbeda.**
 
